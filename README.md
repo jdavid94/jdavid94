@@ -27,7 +27,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Angular" width="26px" src="https://www.salamarkesa.com/wp-content/uploads/2019/10/angular-servidor-subir.png" />
+<img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
 <img align="left" alt="Java" width="26px" src="https://blog.openalfa.com/iconos/logos/java.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://miro.medium.com/max/700/1*O68LbDvD5Dcsnez73M7v4Q.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
