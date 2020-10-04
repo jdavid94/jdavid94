@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jes%C3%BAs-d-su%C3%A1rez-linares-47976b156/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JesusDavid94?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JesusDavid94)
 
-## I'm a Programmer Analyst, Developer, Computer Engineering Student!!
+## I'm a Programmer Analyst, Developer and Computer Engineering Student!!
 
 - 🔭 I like to learn on my own on Udemy, Coursea, Skillshare and Youtube.
 - 🌱 I’m currently learning React, NodeJS and Cloud.
@@ -49,6 +49,13 @@
 ➡️ [React JS](https://www.udemy.com/course/draft/1418884/learn/lecture/8429836#overview)<br />
 ➡️ [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/learn/lecture/2918876#overview)<br />
 <!-- BLOG-POST-LIST:END -->
+<br />
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jdavid94&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://www.linkedin.com/in/jes%C3%BAs-d-su%C3%A1rez-linares-47976b156/
 [gmail]: suarez947.js@gmail.com
