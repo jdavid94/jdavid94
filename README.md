@@ -48,9 +48,9 @@
 ➡️ [React JS](https://www.udemy.com/course/draft/1418884/learn/lecture/8429836#overview)<br />
 ➡️ [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/learn/lecture/2918876#overview)<br />
 <!-- BLOG-POST-LIST:END -->
-<br />
-  <summary>:zap: GitHub Stats</summary>
-  
+
+### :zap: Languages and Tools:
+<br />  
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jdavid94&show_icons=true&hide_border=true&theme=nightowl" />
 
 
