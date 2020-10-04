@@ -11,7 +11,6 @@
 - 🥅 2020 Goals: Cloud Computing and DevOps experience
 - ⚡ Fun fact: I love sport, video games and technology
 
-
 ### Connect with me:
 
 [<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
@@ -51,9 +50,8 @@
 <!-- BLOG-POST-LIST:END -->
 <br />
   <summary>:zap: GitHub Stats</summary>
+  
   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jdavid94&show_icons=true&hide_border=true&theme=nightowl" />
-  <summary>Most Used Languages</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/jdavid94/github-readme-stats)
 
 
 [website]: https://www.linkedin.com/in/jes%C3%BAs-d-su%C3%A1rez-linares-47976b156/
