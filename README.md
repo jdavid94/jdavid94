@@ -6,9 +6,9 @@
 ## I'm a Programmer Analyst, Developer and Computer Engineering Student!!
 
 - 🔭 I like to learn on my own on Udemy, Coursea, Skillshare and Youtube.
-- 🌱 I’m currently learning React, NodeJS and Cloud.
+- 🌱 I’m currently learning Angular, NodeJS and Cloud.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Cloud Computing and DevOps experience
+- 🥅 2021 Goals: Cloud Computing and DevOps experience
 - ⚡ Fun fact: I love sport, video games and technology
 
 ### Connect with me:
