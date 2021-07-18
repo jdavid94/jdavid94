@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jes%C3%BAs-d-su%C3%A1rez-linares-47976b156/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JesusDavid94?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JesusDavid94)
 
-## I'm a Computer Engineering!!
+## I'm a Computer Engineering and Software Development!!
 
 - 🔭 I like to learn on my own on Udemy, Coursea, Skillshare and Youtube.
 - 🌱 I’m currently learning Angular, NodeJS and Cloud.
