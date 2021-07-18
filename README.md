@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jes%C3%BAs-d-su%C3%A1rez-linares-47976b156/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JesusDavid94?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JesusDavid94)
 
-## I'm a Programmer Analyst, Developer and Computer Engineering Student!!
+## I'm a Computer Engineering!!
 
 - 🔭 I like to learn on my own on Udemy, Coursea, Skillshare and Youtube.
 - 🌱 I’m currently learning Angular, NodeJS and Cloud.
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers.
 - 🥅 2021 Goals: Cloud Computing and DevOps experience
 - ⚡ Fun fact: I love sport, video games and technology
 
@@ -30,7 +30,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Angular" width="26px" src="https://angular.io/assets/images/logos/angular/angular.svg" />
-<img align="left" alt="Java" width="26px" src="https://blog.openalfa.com/iconos/logos/java.png" />
+<img align="left" alt="Java" width="26px" src="http://1.bp.blogspot.com/-ulBTtWX-6r4/UvC9dPlELAI/AAAAAAAABrA/I9vROLScJBk/s1600/installer-java-sur-mavericks.jpg" />
 <img align="left" alt="Spring Boot" width="26px" src="https://miro.medium.com/max/700/1*O68LbDvD5Dcsnez73M7v4Q.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
