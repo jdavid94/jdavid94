@@ -6,9 +6,9 @@
 ## I'm a Computer Engineering and Software Development!!
 
 - 🔭 I like to learn on my own on Udemy, Coursea, Skillshare and Youtube.
-- 🌱 I’m currently learning Angular, NodeJS and Cloud.
+- 🌱 I’m currently learning NodeJS and Cloud.
 - 👯 I’m looking to collaborate with other developers.
-- 🥅 2021 Goals: Cloud Computing and DevOps experience
+- 🥅 2022 Goals: Cloud Computing and DevOps experience
 - ⚡ Fun fact: I love sport, video games and technology
 
 ### Connect with me:
