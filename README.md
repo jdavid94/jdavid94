@@ -1,24 +1,33 @@
-### Hi there, I'm Jesús David Suárez - 👋
+<h1 align="center">Hi there 👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
+Jesús David Suárez</a></h1>
+<h3 align="center">A passionate Software Engineer and Full Stack Developer base in The Netherlands &#127475;&#127473</h3>
 
-[![Website](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/jes%C3%BAs-d-su%C3%A1rez-linares-47976b156/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/JesusDavid94?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/JesusDavid94)
-
-## I'm a Computer Engineering and Software Development!!
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🔭 I like to learn on my own on Udemy, Coursea, Skillshare and Youtube.
-- 🌱 I’m currently learning NodeJS and Cloud.
-- 👯 I’m looking to collaborate with other developers.
-- 🥅 2022 Goals: Cloud Computing and DevOps experience
-- ⚡ Fun fact: I love sport, video games and technology
 
-### Connect with me:
+- 🌱 I’m currently learning AWS and React.
 
-[<img align="left" alt="Github" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- 🤝 I’m looking to collaborate with other developers.
 
-<br />
+- 📝 2024 Goals: Cloud and DevOps experience
+
+- ⚡ Fun fact: I love sport, books and technology
+
+<br/>
+
+<!-- Connect with me -->
+
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+<p align="center">
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+  a href="https://www.linkedin.com/in/jes%C3%BAs-d-su%C3%A1rez-linares-47976b156/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://x.com/JesusDavid94" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://www.instagram.com/jesussuarez7" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>  
+</div>
+</p>
 
 ### Languages and Tools:
 
