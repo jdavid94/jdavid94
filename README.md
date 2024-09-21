@@ -51,8 +51,10 @@ Jesús David Suárez</a></h1>
 ### 📕 Latest Courses
 
 <!-- BLOG-POST-LIST:START -->
+➡️ [Microservicios Guía Completa de Docker & Kubernetes](https://www.udemy.com/certificate/UC-9a0a2341-6d7e-4fb1-80ab-9659ed92aac6/)<br />
+➡️ [Microservicios Spring Cloud & Angular Full stack](https://www.udemy.com/certificate/UC-ade4bd88-5ac4-4636-92ce-2c24407d8552/)<br />
+➡️ [Legacy-Angular Avanzado: Lleva tus bases al siguiente nivel](https://www.udemy.com/certificate/UC-c8553e16-fa75-4b49-9219-251904e2175f/)<br />
+➡️ [Microservicios Spring Boot, Spring Cloud Netflix Eureka 2024](https://www.udemy.com/certificate/UC-70a8e6e1-83aa-4c1f-9ff1-20b4776134fd/)<br />
 ➡️ [Angular: De cero a experto (Angular 10+)](https://www.udemy.com/certificate/UC-24a20835-7b14-4009-bb09-e3c7563cd18e/)<br />
 ➡️ [Angular & Spring 5: Creando web app full stack (Angular 10+)](https://www.udemy.com/certificate/UC-2e3e4002-65a9-4133-a177-bb8f463eee2f/)<br />
-➡️ [Vue JS - Aprende a Crear Aplicaciones Web Modernas con Vue](https://www.udemy.com/certificate/UC-4d5315d0-d5bc-495c-9d43-2b1421735eb6/)<br />
-➡️ [React JS](https://www.udemy.com/course/draft/1418884/learn/lecture/8429836#overview)<br />
-➡️ [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/learn/lecture/2918876#overview)<br />
+
